@@ -75,7 +75,6 @@ Spring Transactional
 
 하버사인 포뮬러 알고리즘
 
-
 —————————————————————————————————————————————
 
 spring Retry
@@ -94,10 +93,13 @@ fallback - 재시도 한 것을 다 실패했을 경우
 —>return type을 맞춰줘야 한다.
 
 
-spock검사해보자
-
 —————————————————————————————————————————————
-shorten Url
+AWS ec2를 통한 배포
+참고: https://wonyong-jang.github.io/aws/2022/06/05/AWS-EC2-Elastic-IP.html
+
+
+
+
 
 주로 모바일 등으로 URL을 공유하고자 할 때, 긴 URL을 줄여서 제공
 
