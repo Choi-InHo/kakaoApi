@@ -1,4 +1,33 @@
 <외부 api를 통해 약국 찾기 서비스>
+----------------서비스 소개---------------------------
+
+외부 API, 공공데이터를 활용해 지역을 검색하면 가까운 약국 3곳을 찾아주는
+서비스를 개발한다.
+![image](https://github.com/Choi-InHo/kakaoApi/assets/146165158/b925f0e5-1676-45c7-b598-71b0504de5fd)
+
+![image](https://github.com/Choi-InHo/kakaoApi/assets/146165158/6d809988-3517-494a-9f81-be5056a3f379)
+
+![image](https://github.com/Choi-InHo/kakaoApi/assets/146165158/2a983589-7344-40c0-a78e-fccf72847879)
+
+
+
+----------------기술 스택---------------------------
+JDK 11
+Spring Boot 2.6.7
+Spring Data JPA
+Gradle
+Handlebars
+Lombok
+Github
+Docker
+AWS EC2
+Redis
+MariaDB
+Spock
+Testcontainers
+
+
+----------------학습한 내용 정리 및 배포 관련 내용-----------------------
 
 도커란?
 -컨테이너를 사용하여 응용프로그램을 더 쉽게 만들고, 배포하고 실행할 수 있도록 설계된 도구
@@ -97,6 +126,7 @@ fallback - 재시도 한 것을 다 실패했을 경우
 AWS ec2를 통한 배포
 참고: https://wonyong-jang.github.io/aws/2022/06/05/AWS-EC2-Elastic-IP.html
 
+-> 추후 헤로쿠를 통한 배포도 설정
 
 
 
